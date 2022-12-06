@@ -7,6 +7,7 @@ apt install wget -y
 apt install htop -y
 apt install glances -y
 apt install net-tools -y
+apt install fontconfig -y
 apt install docker.io -y
 apt install docker-compose -y
 apt install python3 -y
